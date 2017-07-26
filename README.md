@@ -20,4 +20,4 @@ npm run build
 + element-ui + bootstrap
 
 ## Example
-![image](https://github.com/ouchsowhat/base_frame/src/assets/example.png)
+![image](https://raw.github.com/ouchsowhat/base_frame/src/assets/example.png)
